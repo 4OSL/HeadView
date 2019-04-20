@@ -1,0 +1,4 @@
+# C++ objects and libs
+
+*.user
+build/
